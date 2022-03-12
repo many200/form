@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background:url('/Screenshot_20220311-152139_PDF\ Reader.jpg');
+    background-size: cover;
+    
+}
+img{
+    
+    width: 280px;
+    margin-right: 950px ;
+    margin-top: 20px;
+    
+}
+h1{
+    position: absolute;
+    margin-left: 950px;
+    margin-top: -180px;
+    opacity: 75%;
+}
